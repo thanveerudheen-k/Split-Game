@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Split Game</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gameName">SPLIT GAME</string>
+    <string name="gameIntro">Never let your hands get 5</string>
+    <string name="p1MoveMsg">Player 1 to move</string>
+    <string name="p2MoveMsg">Player 2 to move</string>
+    <string name="p1WinMsg">Player 1 win!!!</string>
+    <string name="p2WinMsg">Player 2 win!!!</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="play">Play</string>
+    <string name="Split">Split</string>
+    <string name="p1win">Player 1 win !!!</string>
+    <string name="p2win">Player 2 win !!!</string>
+</resources>
